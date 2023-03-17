@@ -3,3 +3,6 @@ This code is a meshsmooth method based on spatial interpolation. It has a parame
 The speed of the code have to be improved.
 Mesh partitioning and parallel process is under development. 
 
+Mohammad Mahdi Kabiri.
+% mmahdikabiri@gmail.com, m.kabiri@stu.iiees.ac.ir, mohammad.kabiri@warick.ac.uk
+
